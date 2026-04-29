@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://socefi.github.io/archive-wd1ukv/sitemap.xml
